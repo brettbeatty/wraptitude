@@ -1,0 +1,17 @@
+# Begin by ignoring everything
+*
+
+# Whitelist files
+!/.circleci/
+!/.circleci/config.yml
+!/wraptitude/
+!/wraptitude/__init__.py
+!/wraptitude/wraptitude.py
+!/tests/
+!/tests/__init__.py
+!/tests/test_wraptitude.py
+!/.gitignore
+!/LICENSE
+!/MANIFEST.in
+!/README.rst
+!/setup.py
